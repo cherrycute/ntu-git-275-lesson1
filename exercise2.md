@@ -2,6 +2,6 @@
 
 This is a commit on a new branch.
 puts
-```javascript var s = "Hello World!";
-alert(s);
+```javascript
+'Hello World!'
 ```
